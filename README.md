@@ -1,5 +1,5 @@
 # Aplikacja
-Zdecydowano się na wybór tematu dotyczącego testowania aplikacji, ponieważ, dostrzeżono jak ważna jest organizacja i synchronizacja wszystkich działań związanych z testowaniem. Postanowiono stworzyć aplikację zaspakajającą potrzeby raportowania w rozproszonym procesie testowania. Na rynku występuje wiele programów tego typu. Należy jednak zauważyć, że nie spełniają one oczekiwań każdej firmy, zarówno pod względem cenowym jak i funkcjonalnym. Wadą większości rozwiązań występujących na rynku jest brak możliwości używania narzędzia bezpośrednio z każdego miejsca, co znacznie obniża efektywność i ogranicza działania.
+Celem pracy jest zaprojektowanie i implementacja aplikacji webowej umożliwiającej planowanie i raportowanie procesu testowania. Przy pomocy aplikacji, osoby odpowiedzialne za testowanie w danej organizacji będą mogły ustalić plan testów i przydzielić je dedykowanym testerom. Testerzy pracujący zdalnie w rożnych lokalizacjach, po przeprowadzeniu zadanych testów oprogramowania będą mogli przygotować i przekazać stosowne raporty. Zarządzający projektem będzie miał wgląd zarówno do planów jak i wyników testów.
 
 # Wykorzystane narzędzia i technologie
 Do wykonania aplikacji webowej wykorzystano następujące technologie:
